@@ -4,6 +4,22 @@
   height: 10px;
   border-radius: 30px;
 
+  &--grey {
+    background-color: #c9d1d3;
+  }
+
+  &--lime {
+    background-color: #b6e6bd;
+  }
+
+  &--purple {
+    background-color: #c355f5;
+  }
+
+  &--black {
+    background-color: #1b034d;
+  }
+
   &--green {
     background-color: #42b883;
   }
@@ -14,5 +30,9 @@
 
   &--pink {
     background-color: #ffbbcc;
+  }
+
+  &--red {
+    background-color: #ff6464;
   }
 }
